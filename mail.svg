@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="mail" sketch:type="MSLayerGroup">
+            <g id="iconer" sketch:type="MSShapeGroup">
+                <g id="Artboard-3">
+                    <g id="info">
+                        <g id="iconer">
+                            <g id="Artboard-1">
+                                <path d="M25,50 C38.8071194,50 50,38.8071194 50,25 C50,11.1928806 38.8071194,0 25,0 C11.1928806,0 0,11.1928806 0,25 C0,38.8071194 11.1928806,50 25,50 L25,50 L25,50 Z M25,48 C37.7025499,48 48,37.7025499 48,25 C48,12.2974501 37.7025499,2 25,2 C12.2974501,2 2,12.2974501 2,25 C2,37.7025499 12.2974501,48 25,48 L25,48 L25,48 Z" id="instagram_L" fill="#FFFFFF"></path>
+                                <rect id="Rectangle-1" stroke="#FFFFFF" stroke-width="2" x="7" y="13" width="36" height="24" rx="1"></rect>
+                                <path d="M8.5,14.5 L24.6280999,26.3272733" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                                <path d="M25.3719001,14.5 L41.5,26.3272733" id="Line-Copy" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" transform="translate(33.435950, 20.413637) scale(-1, 1) translate(-33.435950, -20.413637) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
